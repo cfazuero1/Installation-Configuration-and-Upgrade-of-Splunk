@@ -1,4 +1,4 @@
-# Deploying Splunk on Ubuntu Server
+# Installation, Upgrade and configuration of Splunk on Ubuntu Server
 
 ![40Admin](Splunk/40Admin.png)
 
